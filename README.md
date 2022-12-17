@@ -9,9 +9,9 @@
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a hr<img alt="Github top language" src="https://img.shields.io/github/languages/top/glendson/nlw-copa-frontend?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/glendson/nlw-copa-frontend?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/glendson/nlw-copa-frontend?color=56BEB8">
+<a hr<img alt="Github top language" src="https://img.shields.io/github/languages/top/glendson/notification-service?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/glendson/notification-service?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/glendson/notification-service?color=56BEB8">
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->

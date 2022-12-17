@@ -17,7 +17,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-In this project, an entire backend was built with NestJs and using Prisma for db control, the purpose of this project was to create a decoupled internal notification system using microservices architecture.
+
+In this project, a backend was developed with NestJs and using Prisma to control the db, the objective of this project was to create a decoupled internal notification system using microservices architecture.
 
 ## Technologies
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.

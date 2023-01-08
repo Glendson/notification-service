@@ -18,7 +18,7 @@
 
 ## Description
 
-In this project, a backend was developed with NestJs and using Prisma to control the db, the objective of this project was to create a decoupled internal notification system using microservices architecture.
+In this project, a backend was developed with NestJs and using Prisma to control the db and kafka for messaging. The objective of this project was to create a decoupled internal notification system using microservices architecture.
 
 ## Technologies
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
